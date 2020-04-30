@@ -1,4 +1,4 @@
-# BP_and_clustering_Algorithm
+
 BP神经网络算法本项目根据.https://blog.csdn.net/WuchangI/article/details/79236016  中大佬博客推导出公式及表达的个人见解
 
 聚类算法中 本项目分析了Kmeans、Kmedoids、Cure、Birch、DBSCAN、OPTICS、Clique、DPC算法。
