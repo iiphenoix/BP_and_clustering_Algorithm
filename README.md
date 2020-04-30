@@ -1,5 +1,7 @@
 #BP神经网络算法和聚类算法
 
+本项目几乎每个算法都有python版本和matlab版本
+
 本项目根据.https://blog.csdn.net/WuchangI/article/details/79236016  中大佬博客推导出公式及表达的个人见解
 
 聚类算法中 本项目分析了Kmeans、Kmedoids、Cure、Birch、DBSCAN、OPTICS、Clique、DPC算法。
